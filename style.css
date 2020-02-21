@@ -1,0 +1,8 @@
+.subNav {
+    display: none;
+}
+
+.navItem:hover .subNav {
+    display: block;
+}
+
